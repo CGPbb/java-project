@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="changgou_goods@192.168.200.128" uuid="b6ed2280-f1d5-463c-b5af-12697077c25d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.200.128:3306/changgou_goods</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="changgou_system@192.168.200.128" uuid="86515a11-d7de-452f-bf46-eaa44c538dad">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.200.128:3306/changgou_system</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="changgou_business@192.168.200.128" uuid="8334afca-cd2b-414a-bbf6-fbe4878d150f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.200.128:3306/changgou_business</jdbc-url>
+    </data-source>
+  </component>
+</project>
