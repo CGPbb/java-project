@@ -19,5 +19,11 @@
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.168.200.128:3306/changgou_business</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="changgou_user@192.168.200.128" uuid="35a38f62-9415-4ff6-ae12-26eb0896e39d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.200.128:3306/changgou_user</jdbc-url>
+    </data-source>
   </component>
 </project>
